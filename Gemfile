@@ -25,7 +25,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem 'devise', '4.0.0'
 gem 'simple_form', '3.2.1'
-gem 'bootstrap-rails', '3.3.6'
+gem 'bootstrap-sass', '3.3.6'
 gem 'autoprefixer-rails', '6.3.6'
 
 # Use ActiveModel has_secure_password
